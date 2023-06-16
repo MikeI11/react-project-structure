@@ -3,5 +3,6 @@
         "clearfix",
         "Mykhailo",
         "noreferrer"
-    ]
+    ],
+    "AllAutocomplete.showCurrentDocument": false
 }
