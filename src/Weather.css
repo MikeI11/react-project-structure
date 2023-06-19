@@ -51,3 +51,19 @@
   line-height: 1;
   top: -34px;
 }
+.Weather .row .green-btn:hover {
+  background-color: darkgreen;
+  border-color: darkgreen;
+}
+
+.Weather .row .current-btn {
+  background-color: #00992b;
+  color: #fff;
+  border-color: #00992b;
+  transition: background-color 0.3s ease;
+}
+
+.Weather .row .current-btn:hover {
+  background-color: darkgreen;
+  border-color: darkgreen;
+}
